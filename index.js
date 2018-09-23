@@ -1,8 +1,8 @@
 /**
- * @param {Number} a Первое слагаемое
- * @param {Number} b Второе слагаемое
- * @returns {Number}
+ * @param {Number} hours
+ * @param {Number} minutes
+ * @returns {Boolean}
  */
-module.exports = function (a, b) {
+module.exports = function (hours, minutes) {
 
 };
